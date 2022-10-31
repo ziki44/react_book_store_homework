@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "id": "9d1306b5-f7d7-4f5c-b3b6-c7a8d9f30fcc",
+      "title": "Test1",
+      "category": "Test1",
+      "picture": "https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "alt": "Test1",
+      "author": "Test1"
+    },
+    {
+      "id": "9cf8b15e-4ef0-4ce0-9c7e-9abaf4c5f87b",
+      "title": "Test2",
+      "category": "Test2",
+      "picture": "https://ecsmedia.pl/c/zaginiecie-joanna-chylka-tom-2-b-iext120639525.jpg",
+      "alt": "Test2",
+      "author": "Test2"
+    },
+    {
+      "id": "1132aab6-925a-4e12-882f-97ec2a936073",
+      "title": "Test3",
+      "category": "Test3",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Tb6E9WdHdzqmkl7ig80amCFMuNM7aQi71w&usqp=CAU",
+      "alt": "Test3",
+      "author": "Test3"
+    },
+    {
+      "id": "013486d2-308e-47e1-9300-5dc4dc814ee5",
+      "title": "Test4",
+      "category": "Test4",
+      "picture": "https://ecsmedia.pl/c/zaginiecie-joanna-chylka-tom-2-b-iext120639525.jpg",
+      "alt": "Test4",
+      "author": "Test4"
+    }
+  ]
+}
